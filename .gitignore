@@ -1,0 +1,12 @@
+# Dataset: do not redistribute (GroupLens license)
+data/
+
+# Virtual environment
+.venv/
+
+# Python clutter
+__pycache__/
+*.pyc
+
+# Generated outputs
+artifacts/
